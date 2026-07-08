@@ -1,3 +1,5 @@
+# InductWave
+
 The repository contains implementation details for InductWave. 
 We have included a test case for 175% ratio in this code.
 
@@ -23,10 +25,10 @@ The utils folder contains files to generate queries.
 
 The script folder contains the script to run the model.
 
-Train queries - https://drive.google.com/file/d/15-cX0y0_ezbFERN5kJ7moEtPQj5GFTcr/view?usp=sharing
+Train queries - https://drive.google.com/file/d/1s4hCvJg4p8ScD3-lcMzaFFvGWBd4vhVZ/view?usp=sharing
 Download train queries from above link and save them in data folder with name 175
 
-Wave emb - https://drive.google.com/file/d/1NSFJ2m6YNYua5Iyd1Yl2YgOBzJZXNKMP/view?usp=sharing
+Wave emb - https://drive.google.com/file/d/1z97FsNqeH3TULsXzYGb9KlemWkLNkiQW/view?usp=sharing
 Download wavelet embeddings from the above link and update the path in inductwave/gnn.py
 
 run runnr.py to train the model.
